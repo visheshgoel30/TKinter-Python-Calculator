@@ -7,3 +7,6 @@
 ## Screenshots :
 
 ![img](https://github.com/visheshgoel30/TKinter-Python-Calculator/blob/master/first.png)
+
+
+![img](https://raw.githubusercontent.com/visheshgoel30/TKinter-Python-Calculator/master/second.png)
